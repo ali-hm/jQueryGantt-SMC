@@ -1,6 +1,7 @@
-jQueryGantt
+jQueryGantt-SMC
 ===========
-jQuery Gantt editor has been written by Roberto Bicchierai and Silvia Chelazzi
+Simplified version of jQuery Gantt editor has been written by Roberto Bicchierai and Silvia Chelazzi.
+I want to create a simplefied version of this component with support for multi calendar (Gregorian and Jalali)
 
 
 <img src="http://twproject.s3.amazonaws.com/resources/gantt_github2.jpg" alt="Twproject jQuery Gantt" border="0" />
